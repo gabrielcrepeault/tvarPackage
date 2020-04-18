@@ -3,6 +3,11 @@ permalink: docs/index.html
 ---
 
 # tvarPackage
+
+> This package is no longer maintained. Please refer to the [`Distributacalcul_Package`](https://github.com/alec42/Distributacalcul_Package). 
+
+
+
 To download this R package on your R session, copy-paste the next code line (the package [devtools](https://cran.r-project.org/web/packages/devtools/index.html) is necessary) :
 
 ```
